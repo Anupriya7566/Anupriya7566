@@ -5,16 +5,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupriya7566&label=Profile%20views&color=0e75b6&style=flat" alt="anupriya7566" /> </p>
 
 Anyone can also contact me via 
-&nbsp;<img src = "https://github.com/Anupriya7566/blob/main/Images/gmail.png" width = 20><img> : anu.priya.official08@gmail.com
+&nbsp;<img src = "https://github.com/Anupriya7566/Anupriya7566/commit/4e4740b518ecae3fe95cf9b946f9d337323da3e8" width = 20><img> : anu.priya.official08@gmail.com
 
 
 ## :wrench: Job Responsiblities
 
 | Skill | Technologies worked on | 
 |:--|:------------|
-| Programming | Python,Scala, C , C++ , Java |
-| DataBase | SQL, Sqlite |
-| Tools/ IDE | PyCharm, VSCode, Jupyter Notebook |
+| Programming | Python,R |
+| DataBase | MySQL |
+| Tools/ IDE | PyCharm, VSCode, Jupyter Notebook ,Flask|
 | Machine Learning | EDA, ML-Algorithms, Execution with python |
 | Deep Learning | Neural Networks , Computer Vision, Transfer learning, Execution with Python |
 | Natural Language Processing | Neural Network , Transfer learning, Execution with Python |
@@ -30,17 +30,17 @@ Anyone can also contact me via
 |:--|:------------|
 | Python | Numpy, Pandas,Spark ,Matplotlib, Seaborn, Plotly, Scikit-Learn, pickle, Keras, Open-cv, Tensorflow, Pytorch |
 | Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support vector machine, Naive Bayes, Ensemble technique, Hyper parameter tunning  |
-| Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, LeNET, AlexNet, VGG, Resnet, InceptionNet |
-| Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
-| Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, Transfer Learning models |
+| Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network |
+| Computer Vision | RCNN family , Yolo family , Object segmentation(Mask-RCNN) , Object Tracking  |
+| Natural Language Processing | Encoder-Decoder, Transformer, Transfer Learning models |
 
 For More Details refer my resume <a href = "https://github.com/Anupriya7566/AnuPriya_Resume">click here for resume</a>
   
   ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH">
+<a href="https://github.com/Anupriya7566">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupriya7566&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="40%"/>
 </a>
-<a href="https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH">
+<a href="https://github.com/Anupriya7566">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anupriya7566&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Santosh's GitHub Stats" width="56%" />
 </a>
 
