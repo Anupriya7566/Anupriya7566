@@ -3,6 +3,7 @@
 <h3 align="center">This is Anu Priya and I am a Data Science enthusiast. I have insights into Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing and I am extending myself towards Data Engineering, Cloud, and to achieve a level of Full-Stack Data Science. I live in Noida, India. Anyone can find me on :</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupriya7566&label=Profile%20views&color=0e75b6&style=flat" alt="anupriya7566" /> </p>
+&nbsp;<a href = "linkedin.com/in/anu-priya-05072619a" ><img src = "https://github.com/Anupriya7566/Anupriya7566/blob/main/Linkedin.png" height="20"><img></a>
 
 Anyone can also contact me via 
 &nbsp;<img src = "https://github.com/Anupriya7566/Anupriya7566/commit/4e4740b518ecae3fe95cf9b946f9d337323da3e8" width = 20><img> : anu.priya.official08@gmail.com
