@@ -4,34 +4,51 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupriya7566&label=Profile%20views&color=0e75b6&style=flat" alt="anupriya7566" /> </p>
 
-- Anyone want to reach me **anu.priya.official08@gmail.com**
+Anyone can also contact me via 
+&nbsp;<img src = "https://github.com/Anupriya7566/blob/main/Images/gmail.png" width = 20><img> : anu.priya.official08@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anu-priya-05072619a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anu-priya-05072619a" height="30" width="40" /></a>
-<a href="https://instagram.com/anu priya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anu priya" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## :wrench: Job Responsiblities
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupriya7566&show_icons=true&locale=en&layout=compact" alt="anupriya7566" /></p>
+| Skill | Technologies worked on | 
+|:--|:------------|
+| Programming | Python,Scala, C , C++ , Java |
+| DataBase | SQL, Sqlite |
+| Tools/ IDE | PyCharm, VSCode, Jupyter Notebook |
+| Machine Learning | EDA, ML-Algorithms, Execution with python |
+| Deep Learning | Neural Networks , Computer Vision, Transfer learning, Execution with Python |
+| Natural Language Processing | Neural Network , Transfer learning, Execution with Python |
+| Big Data | Hadoop , Spark |
+| Cloud | Basic AWS |
+| Operating System | MacOs, Windows |
+| Hardware | Tesla T4 from google colab |
+| Version control | GIT |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupriya7566&show_icons=true&locale=en" alt="anupriya7566" /></p>
+## :notebook_with_decorative_cover: Skill Elaboration
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupriya7566&" alt="anupriya7566" /></p>
+| Skill | Technologies used to work or Known | 
+|:--|:------------|
+| Python | Numpy, Pandas,Spark ,Matplotlib, Seaborn, Plotly, Scikit-Learn, pickle, Keras, Open-cv, Tensorflow, Pytorch |
+| Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support vector machine, Naive Bayes, Ensemble technique, Hyper parameter tunning  |
+| Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, LeNET, AlexNet, VGG, Resnet, InceptionNet |
+| Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
+| Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, Transfer Learning models |
 
-<!--
-**Anupriya7566/Anupriya7566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For More Details refer my resume <a href = "https://github.com/Anupriya7566/AnuPriya_Resume">click here for resume</a>
+  
+  ## &#x1f4c8; GitHub Stats
+<a href="https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupriya7566&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="40%"/>
+</a>
+<a href="https://github.com/SAXENA-SANTOSH/SAXENA-SANTOSH">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anupriya7566&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Santosh's GitHub Stats" width="56%" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+<br>
+
+If anyone can see my project just <a href = "https://github.com/Anupriya7566?tab=repositories">Click here</a>
+
+
