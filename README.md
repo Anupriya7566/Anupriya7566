@@ -6,7 +6,7 @@
 &nbsp;<a href = "linkedin.com/in/anu-priya-05072619a" ><img src = "https://github.com/Anupriya7566/Anupriya7566/blob/main/Linkedin.png" height="20"><img></a>
 
 Anyone can also contact me via 
-&nbsp;<img src = "https://github.com/Anupriya7566/Anupriya7566/commit/4e4740b518ecae3fe95cf9b946f9d337323da3e8" width = 20><img> : anu.priya.official08@gmail.com
+&nbsp;<img src = "https://github.com/Anupriya7566/Anupriya7566/blob/main/gmail.png" width = 20><img> : anu.priya.official08@gmail.com
 
 
 ## :wrench: Job Responsiblities
