@@ -26,7 +26,6 @@ Anyone can also contact me via
 | Cloud | Basic AWS |
 | Operating System | MacOs, Windows |
 | Visualization / Analysis |Powerbi, DAX ,Tableau ,Excel ,Data Modeling |
-| Version control | GIT | 
 
 ## :notebook_with_decorative_cover: Skill Elaboration
 
