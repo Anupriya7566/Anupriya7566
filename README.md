@@ -21,12 +21,12 @@ Anyone can also contact me via
 | Tools/ IDE | PyCharm, VSCode, Jupyter Notebook ,Flask, Google Colab|
 | Machine Learning | EDA, ML-Algorithms, Execution with python |
 | Deep Learning | Neural Networks , Computer Vision, Transfer learning, Execution with Python |
-| Natural Language Processing | Neural Network , Transfer learning, Execution with Python |
+| Natural Language Processing | Transformer, Transfer Learning models,Sentiment Analysis |
 | Big Data | Hadoop , Spark |
 | Cloud | Basic AWS |
 | Operating System | MacOs, Windows |
-| Hardware | Tesla T4 from google colab |
-| Version control | GIT |
+| Visualization / Analysis |Powerbi, DAX ,Tableau ,Excel ,Data Modeling |
+| Version control | GIT | 
 
 ## :notebook_with_decorative_cover: Skill Elaboration
 
@@ -36,7 +36,8 @@ Anyone can also contact me via
 | Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support vector machine, Naive Bayes, Ensemble technique, Hyper parameter tunning ,K-Means |
 | Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network |
 | Computer Vision | Object segmentation(Mask-RCNN) , Object Tracking  |
-| Natural Language Processing | Encoder-Decoder, Transformer, Transfer Learning models,Sentiment Analysis |
+| Natural Language Processing | Transformer, Transfer Learning models,Sentiment Analysis |
+| Visualization / Analysis| Powerbi, DAX, Tableau, Excel, Data Modeling |
 
 For More Details refer my resume <a href = "https://github.com/Anupriya7566/AnuPriya_Resume">click here for resume</a>
   
